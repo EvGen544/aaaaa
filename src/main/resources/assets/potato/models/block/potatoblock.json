@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "potato:blocks/potato_block",
+    "up": "potato:blocks/potato_block",
+    "north": "potato:blocks/potato_block",
+    "east": "potato:blocks/potato_block",
+    "south": "potato:blocks/potato_block",
+    "west": "potato:blocks/potato_block",
+    "particle": "potato:blocks/potato_block"
+  }
+}

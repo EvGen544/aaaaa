@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "Potatoblock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potatoblock"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.potato.potatoblock": "Potatoblock"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "potato",
+    "modName": "Potato",
+    "version": "1.0.0",
+    "author": "79605, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "potatomod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
